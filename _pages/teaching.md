@@ -11,5 +11,5 @@ From 2014-2016, I taught undergraduate discussion sections in **International Re
 
 From 2017-2020, I have taught undergraduate discussions sections for **Political Inquiry**, a political science methods course and **Comparative Politics** at **UC San Diego**. I have also worked as a grader/mentor for **Politics of Development**, **Politics of Human Rights** and **Politics of Diversity**. In Summer 2021, I propose to design and teach a course on **Politics of Developing Countries** and **Politics of Modern South Asia** at UCSD as an instructor-of-record. 
 
-I am mindful of creating an inclusive and equitable teaching experience for my students. My teaching evaluations and statement for inclusive teaching are available upon request. 
+As a woman of color, I aim to cultivate an inclusive and equitable teaching experience for my students. My teaching evaluations and statement for inclusive teaching are available upon request. 
 
