@@ -1,11 +1,10 @@
 ---
-permalink: /
+layout: archive
 title: "Teaching"
-excerpt: "Teaching"
+permalink: /teaching/
 author_profile: true
 redirect_from: 
   - /teaching/
-  - /teaching.html
 ---
 I have prolific experience in teaching undergraduates across three institutions. From 2010-2012, I taught **Development Economics** and **Public Economics** as an instructor-of-record at the **Lahore University of Management Sciences** 
 
