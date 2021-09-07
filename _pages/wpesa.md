@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 title: "WPESA"
 permalink: /wpesa/
 author_profile: true
