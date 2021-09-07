@@ -185,6 +185,9 @@ collections:
   cv:
     output: true
     permalink: /:collection/:path/
+  wpesa:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: false 
     permalink: /:collection/:path/
@@ -214,6 +217,15 @@ defaults:
   - scope:
       path: ""
       type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+   # _wpesa
+  - scope:
+      path: ""
+      type: wpesa
     values:
       layout: single
       author_profile: true
