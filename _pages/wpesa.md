@@ -6,11 +6,9 @@ author_profile: true
 
 ---
 
-As a graduate student at UCSD with a regional focus on South Asia, I realized the need for a space where early-career South Asianists could meet, present work
-and receive quality feedback. In collaboration with [Sarah Thompson](https://www.sarahthompson.info) and [Aidan Milliff](https://aidanmilliff.com), I founded a 
-virtual workshop on South Asia. Titled 'Workshop on the Political Economy of South Asia', [WPESA](https://wpesa.net) has received support from multiple faculty
-members and practitioners over its two iterations. I hope that we can continue to have future WPESA meetings and that it institutionalizes into a space that continues
-to exist for the forseeable future. 
+WPESA, the Workshop on the Political Economy of South Asia, is a two-day virtual workshop that meets bi-annually. The format, modeled on other similar subfield workshops in the discipline, seeks to provide close engagement and feedback to the early career scholars of South Asian political economy. Participants are, therefore, expected to have read all papers on the agenda beforehand and each sessions kicks off by a very brief introduction (often sans presentation) and moves straight into feedback mode. All participants also receive detailed feedback from a faculty discussant. 
+
+This workshop was conceptualized during the early days of COVID-19. As a graduate student at UCSD with a regional focus on South Asia, I realized the need for a space where early-career South Asianists could meet, present work and receive insightful and constructive comments. Over several helpful and enlightening conversations with [Sarah Thompson](https://www.sarahthompson.info) and [Aidan Milliff](https://aidanmilliff.com), WPESA came into being . Titled the 'Workshop on the Political Economy of South Asia', [WPESA](https://wpesa.net) has received support from multiple faculty members and practitioners over its two iterations. As political science research on South Asia continues to grow, we hope to institutionalize WPESA into a space that functions as a collaborative space for South Asianists. 
 
 I will also be sharing my experience of organizing WPESA at a APSA 2021's [Teaching and Learning Conference](https://connect.apsanet.org/apsa2021/tlc-at-apsa/). The
 panel is titled 'Organizing and Supporting Junior Scholar Virtual Workshops'. 
