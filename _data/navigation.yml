@@ -9,6 +9,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+  
+  - title: "WPSA"
+   url: /wpesa/ 
     
   #- title: "Portfolio"
     #url: /portfolio/
