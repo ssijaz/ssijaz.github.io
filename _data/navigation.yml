@@ -18,9 +18,6 @@ main:
     
   - title: "CV"
     url: /cv/
-  
- - title: "WPESA"
-    url: /wpesa/
     
   #- title: "Guide"
     #url: /markdown/
