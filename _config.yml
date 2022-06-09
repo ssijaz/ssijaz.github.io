@@ -185,11 +185,18 @@ collections:
   cv:
     output: true
     permalink: /:collection/:path/
+  
   wpesa:
     output: true
     permalink: /:collection/:path/
   talks:
     output: false 
+    permalink: /:collection/:path/
+  apsaps:
+    output: true
+    permalink: /:collection/:path/
+  diversity:
+    output: true
     permalink: /:collection/:path/
  
 
