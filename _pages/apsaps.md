@@ -16,4 +16,4 @@ accessible summaries of and reflections on recent APSR articles.
 
 Podcast (Episode 17) available [here](https://www.youtube.com/watch?v=vy-aQz7RjnU&feature=youtu.be).
 
-![Talk at LUMS Economics Brown Bag Seminar](/ssijaz.github.io/images/lums_talk.jpg)
+![Talk at LUMS Economics Brown Bag Seminar](/images/lums_talk.jpg)
