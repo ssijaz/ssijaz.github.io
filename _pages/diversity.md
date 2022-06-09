@@ -14,7 +14,7 @@ I am also the co-convener for the [Women in Political Science](https://polisci.u
 
 In 2021, I was selected as a [First Generation Scholar](https://politicalsciencenow.com/meet-syeda-shahbano-ijaz-2021-first-generation-scholar-in-the-profession/) by the American Political Science Association. 
 
-Besides promoting diversity within political science, I also want to understand the structural impediments that women of color face, both in the academy and outside it. As part of these efforts, I participated in an online symposium on Rafia Zakaria's "Against White Feminism". My contributions to the symposium will appear in the Southwestern Journal of International Law in 2023. 
+Besides promoting diversity within political science, I also want to understand the structural impediments that women of color face, both in the academy and outside it. As part of these efforts, I participated in an online symposium on Rafia Zakaria's "Against White Feminism". My contributions to the symposium will appear in the *Southwestern Journal of International Law* in 2023. 
 
 <img src="https://github.com/ssijaz/ssijaz.github.io/blob/8338fe9e1136f1a6f4490f89b4d276f6ad228f50/images/classcrits2.png" width=30% height=30%>
 
