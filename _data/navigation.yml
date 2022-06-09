@@ -21,6 +21,12 @@ main:
     
   - title: "WPESA"
     url: /wpesa/ 
+  
+  -title: "Diversity in Academia"
+  url: /diversity/
+  
+  -title: "APSA Public Scholar"
+  url: /apsaps/ 
    
    
   #- title: "Guide"
