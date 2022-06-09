@@ -23,10 +23,10 @@ main:
     url: /wpesa/ 
   
   -title: "Diversity in Academia"
-  url: /diversity/
+    url: /diversity/
   
   -title: "APSA Public Scholar"
-  url: /apsaps/ 
+    url: /apsaps/ 
    
    
   #- title: "Guide"
