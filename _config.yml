@@ -185,7 +185,6 @@ collections:
   cv:
     output: true
     permalink: /:collection/:path/
-  
   wpesa:
     output: true
     permalink: /:collection/:path/
