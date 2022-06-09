@@ -191,12 +191,7 @@ collections:
   talks:
     output: false 
     permalink: /:collection/:path/
-  diversity:
-    output: true
-    permalink: /:collection/:path/
-  apsaps:
-    output: true
-    permalink: /:collection/:path/
+ 
 
 
 # Defaults
