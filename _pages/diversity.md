@@ -16,5 +16,5 @@ In 2021, I was selected as a [First Generation Scholar](https://politicalscience
 
 Besides promoting diversity within political science, I also want to understand the structural impediments that women of color face, both in the academy and outside it. As part of these efforts, I participated in an online symposium on Rafia Zakaria's "Against White Feminism". My contributions to the symposium will appear in the *Southwestern Journal of International Law* in 2023. 
 
-<img src="https://github.com/ssijaz/ssijaz.github.io/blob/1698ed013d515905250490991a1dc5288c847dac/images/classcrits2.png" width=30% height=30%>
+<img src="images/classcrits2.png" width=30% height=30%>
 
