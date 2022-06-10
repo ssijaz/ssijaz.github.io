@@ -18,4 +18,4 @@ Besides promoting diversity within political science, I also want to understand 
 
 
 
-<img src="https://user-images.githubusercontent.com/39137491/172978350-69fe2aef-430e-44c7-915a-2bf9647f7dd1.png" width=300> 
+<a href="https://github.com/ssijaz/ssijaz.github.io/blob/24c736142dba9f6c856859cfe1cc5c15ced0ac3c/images/classcrits2.png"> <p align="center"><img src="https://user-images.githubusercontent.com/39137491/172978350-69fe2aef-430e-44c7-915a-2bf9647f7dd1.png" width=300></p>
