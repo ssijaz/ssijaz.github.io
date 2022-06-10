@@ -1,24 +1,22 @@
 # main links links
-
 main:
- - title: "Publications"
-    url: /pubs/  
- 
- - title: "Research"
-    url: /research/
-    
- - title: "CV"
-    url: /cv/
+  - title: "Publications"
+    url: /pubs/
 
- - title: "Teaching"
-    url: /teaching/    
-     
- - title: "Diversity in Academia"
+  - title: "Research"
+    url: /research/    
+
+  - title: "CV"
+    url: /cv/    
+    
+  - title: "Teaching"
+    url: /teaching/
+        
+  - title: "Diversity in Academia"
     url: /diversity/
-  
+    
   - title: "Public Scholarship"
-    url: /apsaps/ 
-   
+    url: /apsaps/
+    
   - title: "WPESA"
-    url: /wpesa/ 
-  
+    url: /wpesa/
