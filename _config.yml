@@ -188,8 +188,8 @@ collections:
   wpesa:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: false 
+  publications:
+    output: true 
     permalink: /:collection/:path/
   apsaps:
     output: true
@@ -197,6 +197,7 @@ collections:
   diversity:
     output: true
     permalink: /:collection/:path/
+   
  
 
 
