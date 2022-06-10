@@ -7,19 +7,13 @@ main:
  - title: "Research"
     url: /research/
     
-  - title: "CV"
+ - title: "CV"
     url: /cv/
 
-  - title: "Teaching"
+ - title: "Teaching"
     url: /teaching/    
-    
-  #- title: "Portfolio"
-    #url: /portfolio/
-        
-  #- title: "Blog Posts"
-   # url: /year-archive/
-  
-  - title: "Diversity in Academia"
+     
+ - title: "Diversity in Academia"
     url: /diversity/
   
   - title: "Public Scholarship"
@@ -27,6 +21,4 @@ main:
    
   - title: "WPESA"
     url: /wpesa/ 
-   
-  #- title: "Guide"
-    #url: /markdown/
+  
