@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-**Dissertation Project**
+**Dissertation Project**\
 **From Aid to Accountability: Tracing the Access Equilibrium in Developing Democracies**
 *Abstract:*To what extent does last-mile access to foreign aid matter in developing democracies? I ask this question in the context of Pakistan, 
 where the Benazir Income Support Program provides quarterly cash payments to women whose eligibility is determined by a poverty score. 
