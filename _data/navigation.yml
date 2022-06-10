@@ -4,8 +4,8 @@ main:
   - title: "Research"
     url: /research/
 
-  #- title: "Talks"
-   # url: /talks/    
+  - title: "Publications"
+    url: /pubs/    
 
   - title: "Teaching"
     url: /teaching/    
@@ -27,6 +27,7 @@ main:
   
   - title: "Public Scholarship"
     url: /apsaps/ 
+   
    
    
   #- title: "Guide"
