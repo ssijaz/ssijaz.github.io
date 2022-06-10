@@ -18,5 +18,4 @@ Podcast (Episode 17) available [here](https://www.youtube.com/watch?v=vy-aQz7Rjn
 
 
 <p align="center">
-<a href="https://user-images.githubusercontent.com/39137491/172979011-0c696ba7-d7a7-4241-9b0c-a4396c6b07a2.jpg"><img src="https://user-images.githubusercontent.com/39137491/172979011-0c696ba7-d7a7-4241-9b0c-a4396c6b07a2.jpg" width=300> 
-  </p>
+<a href="https://user-images.githubusercontent.com/39137491/172979011-0c696ba7-d7a7-4241-9b0c-a4396c6b07a2.jpg"><img src="https://user-images.githubusercontent.com/39137491/172979011-0c696ba7-d7a7-4241-9b0c-a4396c6b07a2.jpg" width=300></p>
