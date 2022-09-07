@@ -19,29 +19,30 @@ open-ended interviews with local politicians to understand their incentives in p
 political economy of foreign aid in developing countries, particularly its effect on democratic accountability. Concurrently, it conducts a unique study 
 of newly enfranchised women voters, many of whom register in the national database for the first time to determine their BISP eligibility. 
 
-**Voter Preferences and Foreign Aid: Experimental Evidence from Pakistan**
-*Abstract:*How does foreign aid interrupt the fiscal contract between voters and politicians as an unearned resource that politicians can use to seek electoral leverage? 
-Recent literature has attributed the electoral consequences of foreign aid to credit claiming by politicians or to their ability to allocate funds strategically. 
-However, both these mechanisms assume information asymmetry: if voters were better informed about politicians' programmatic efforts, they would not reward politicians 
-for foreign aid. Yet in countries with low tax-to-GDP ratios and high aid dependency, voters adapt their expectations in the light of foreign aid and elect 
-politicians who are more likely to secure foreign aid funding for their constituency. They do this because politicians' programmatic promises suffer from time
-inconsistency and uncertainty; in weak institutional and fiscal conditions, politicians cannot credibly commit to initiating broad based public goods programs. 
-Results from a survey experiment in Pakistan suggest that voters are more likely to choose candidates with characteristics that signal their ability to secure 
-foreign aid funding. Voters also select public goods that provide them immediate benefits. Thus, voters consciously account for the presence of foreign aid while 
-making voting decisions and do not vote for politicians on the basis of misinformation.
+**Publications**
+*Peer Reviewed*
+"Taking the Cloth: How religious appeals increase compliance with COVID-19 prevention measures." (with Claire Adida, Christina Cottiero, Leonardo Falabella, Isabelle Gotti, Gregoire Phillips and Michael Seese), *Conditionally Accepted* at **Journal of Experimental Political Science**
 
-**Foreign Aid, Government Perceptions and Compliance during COVID-19**
+**Under Review** 
+"Moral Hazard or State Capacity? U.S. Military Aid and Political Violence in Pakistan", *Under Review* 
+
+**Working Papers**\
+**Voter Preferences and Foreign Aid: Experimental Evidence from Pakistan** Draft available on request. 
+*Abstract:*How does foreign aid interrupt the fiscal contract between voters and politicians as an unearned resource that politicians can use to seek electoral leverage? Recent literature has attributed the electoral consequences of foreign aid to credit claiming by politicians or to their ability to allocate funds strategically. However, both these mechanisms assume information asymmetry: if voters were better informed about politicians' programmatic efforts, they would not reward politicians for foreign aid. Yet in countries with low tax-to-GDP ratios and high aid dependency, voters adapt their expectations in the light of foreign aid and elect politicians who are more likely to secure foreign aid funding for their constituency. They do this because politicians' programmatic promises suffer from time inconsistency and uncertainty; in weak institutional and fiscal conditions, politicians cannot credibly commit to initiating broad based public goods programs. Results from a survey experiment in Pakistan suggest that voters are more likely to choose candidates with characteristics that signal their ability to secure foreign aid funding. Voters also select public goods that provide them immediate benefits. Thus, voters consciously account for the presence of foreign aid while making voting decisions and do not vote for politicians on the basis of misinformation.
+
+**Foreign Aid, Government Perceptions and Compliance during COVID-19** Draft available on request. 
 *Abstract:* Does information about foreign aid shift individual’s perceptions of government performance, as well as their likelihood to comply with public
-health orders to curb the spread of COVID-19? Foreign aid can address developing countries’ capacity-compliance gap by facilitating the roll out of stimulus
-payment programs, as is true for Pakistan. The country received renewed tranches of aid from USAID and China and was able to quickly roll out a stimulus payment
-program titled *Ehsaas* that could allow recipients to shelter-in-place for a longer duration without risking survival. To understand the nexus between foreign aid,
-stimulus payments and public health orders, this paper tests whether learning about financial support from bilateral donors changes support for *Ehsaas* and is 
-associated with cross-domain spillover by affecting individuals’ likelihood of compliance with public health orders. I find that information about foreign aid 
-does not affect public support for the stimulus payment program which remains overwhelmingly positive. It also does not affect the likelihood of compliance
-with public health orders, although it does change individual perceptions of government credibility in the reporting of COVID-19 cases. I also find that being 
-an *Ehsaas* recipient is associated with a higher likelihood of complying with public health orders, suggesting that the stimulus payment programs may be an effective
-way to address the economic vulnerability that disproportionately exposes the poor to this pandemic.
+health orders to curb the spread of COVID-19? Foreign aid can address developing countries’ capacity-compliance gap by facilitating the roll out of stimulus payment programs, as is true for Pakistan. The country received renewed tranches of aid from USAID and China and was able to quickly roll out a stimulus payment program titled *Ehsaas* that could allow recipients to shelter-in-place for a longer duration without risking survival. To understand the nexus between foreign aid, stimulus payments and public health orders, this paper tests whether learning about financial support from bilateral donors changes support for *Ehsaas* and is associated with cross-domain spillover by affecting individuals’ likelihood of compliance with public health orders. I find that information about foreign aid does not affect public support for the stimulus payment program which remains overwhelmingly positive. It also does not affect the likelihood of compliance with public health orders, although it does change individual perceptions of government credibility in the reporting of COVID-19 cases. I also find that being an *Ehsaas* recipient is associated with a higher likelihood of complying with public health orders, suggesting that the stimulus payment programs may be an effective way to address the economic vulnerability that disproportionately exposes the poor to this pandemic.
 
+**Other Publications**
 
+*Media*
+"What would persuade South Asians to get vaccinated against Covid-19?" *Monkey Cage, The Washington Post* (2021). Available [here](https://www.washingtonpost.com/politics/2021/05/21/what-would-persuade-south-asians-get-vaccinated-against-covid-19/)
 
+"Do foreign funded aid programmes encourage women to increase their political participation?" *DAWN, Pakistan* (2018). Available [here](https://www.dawn.com/news/1430923/do-foreign-funded-aid-programmes-encourage-women-to-increase-their-political-participation)
+
+*Policy*
+"Post-Conflict Recovery and PeaceBuilding," Background Paper, *World Development Report*. (2011). With *Anke Hoeffler (Oxford University)* and *Sarah von Billerbeck (Reading University)* Available [here](https://openknowledge.worldbank.org/bitstream/handle/10986/9184/WDR2011_0010.pdf?sequence=1&isAllowed=y). 
+
+"ODA in Conflict-Affected States: Can it assist economic growth?" *Social Science Pollicy Bulletin*. (2011). Available [here](https://www.dropbox.com/s/llbpt10a8s8uevn/SSPB_2011.pdf?dl=0)
 
