@@ -11,7 +11,7 @@ Pakistan, I have remained an Affiliate with Pakistan's [Consortium for Developme
 I have also presented my research at the Lahore University of Management Sciences, and shared insights from an [article](https://www.washingtonpost.com/politics/2021/05/21/what-would-persuade-south-asians-get-vaccinated-against-covid-19/)
 I wrote for the Monkey Cage in a [podcast](https://www.cerp.org.pk/pages/podcasts) with the Center of Economic Research in Pakistan. 
 
-I am the [APSA Public Scholar](https://www.cambridge.org/core/journals/political-science-today/article/meet-the-20222023-public-scholars/C67306488995FB92972F34124ABC627E) for the 2022-23. In future blogposts featured at [Political Science Now](https://politicalsciencenow.com), I will be writing
+I am an [APSA Public Scholar](https://www.cambridge.org/core/journals/political-science-today/article/meet-the-20222023-public-scholars/C67306488995FB92972F34124ABC627E) for the 2022-23. In future blogposts featured at [Political Science Now](https://politicalsciencenow.com), I will be writing
 accessible summaries of and reflections on recent APSR articles.
 
 Podcast (Episode 17) available [here](https://www.youtube.com/watch?v=vy-aQz7RjnU&feature=youtu.be).
