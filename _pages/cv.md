@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Please find my CV [here](https://www.dropbox.com/s/ejwvb0wq8wiaug3/Ijaz_CV_Fall2022.pdf?dl=0).
+Please find my CV [here](https://github.com/ssijaz/ssijaz.github.io/blob/1ad6449d09557853bd02e87977cc3b910c2f2389/files/Ijaz_CV_Fall2022.pdf).
