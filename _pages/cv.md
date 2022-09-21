@@ -8,7 +8,5 @@ redirect_from:
 ---
 
 
-Please find my CV [here].
-
-<a href="https://github.com/ssijaz/ssijaz.github.io/blob/master/Ijaz_CV_Fall2022.pdf" target="_blank">PDF.</a>
+Please find my CV [here](https://www.dropbox.com/s/tfmcx70x101m6ty/Ijaz_CV_Fall2022.pdf?dl=0). 
 
