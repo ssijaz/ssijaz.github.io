@@ -15,7 +15,7 @@ I am an [APSA Public Scholar](https://www.cambridge.org/core/journals/political-
 
 1. "Getting Someone Else to Do the Task: When Accountability Initiatives Create Shadow States Instead of Building Bureaucratic Capacity" *PoliticalScienceNow.com*. 26th December, 2022. Available [here.](https://politicalsciencenow.com/getting-someone-else-to-do-the-task-when-accountability-initiatives-create-shadow-states-instead-of-building-bureaucratic-capacity/) 
 
-2. "Should the Rich Be Taxed? People Are More Concerned about Whether the Rich Are Greedy Than Whether They Worked Their Way Up!" *PoliticalScienceNow.com*. 24th October, 2022. Available [here.] (https://politicalsciencenow.com/should-the-rich-be-taxed-people-are-more-concerned-about-whether-the-rich-are-greedy-than-whether-they-worked-their-way-up/).
+2. "Should the Rich Be Taxed? People Are More Concerned about Whether the Rich Are Greedy Than Whether They Worked Their Way Up!" *PoliticalScienceNow.com*. 24th October, 2022. Available [here.](https://politicalsciencenow.com/should-the-rich-be-taxed-people-are-more-concerned-about-whether-the-rich-are-greedy-than-whether-they-worked-their-way-up/)
 
 3. "Targeting Men could Raise Women Voters' Turnout," *PoliticalScienceNow.com.* 23rd September, 2022. Available [here.](https://politicalsciencenow.com/targeting-men-could-raise-women-voters-turnout/) 
 
