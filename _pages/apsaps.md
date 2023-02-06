@@ -11,8 +11,13 @@ Pakistan, I have remained an Affiliate with Pakistan's [Consortium for Developme
 I have also presented my research at the Lahore University of Management Sciences, and shared insights from an [article](https://www.washingtonpost.com/politics/2021/05/21/what-would-persuade-south-asians-get-vaccinated-against-covid-19/)
 I wrote for the Monkey Cage in a [podcast](https://www.cerp.org.pk/pages/podcasts) with the Center of Economic Research in Pakistan. 
 
-I am an [APSA Public Scholar](https://www.cambridge.org/core/journals/political-science-today/article/meet-the-20222023-public-scholars/C67306488995FB92972F34124ABC627E) for the AY 2022-23. In future blogposts featured at [Political Science Now](https://politicalsciencenow.com), I will be writing
-accessible summaries of and reflections on recent APSR articles.
+I am an [APSA Public Scholar](https://www.cambridge.org/core/journals/political-science-today/article/meet-the-20222023-public-scholars/C67306488995FB92972F34124ABC627E) for the AY 2022-23. My featured blogposts at [Political Science Now](https://politicalsciencenow.com) are listed below. 
+
+1. "Getting Someone Else to Do the Task: When Accountability Initiatives Create Shadow States Instead of Building Bureaucratic Capacity" *PoliticalScienceNow.com*. 26th December, 2022. Available [here.](https://politicalsciencenow.com/getting-someone-else-to-do-the-task-when-accountability-initiatives-create-shadow-states-instead-of-building-bureaucratic-capacity/) 
+
+2."Should the Rich Be Taxed? People Are More Concerned about Whether the Rich Are Greedy Than Whether They Worked Their Way Up!" *PoliticalScienceNow.com*. 24th October, 2022. Available [here.] (https://politicalsciencenow.com/should-the-rich-be-taxed-people-are-more-concerned-about-whether-the-rich-are-greedy-than-whether-they-worked-their-way-up/).
+
+3. "Targeting Men could Raise Women Voters' Turnout," *PoliticalScienceNow.com.* 23rd September, 2022. Available [here.](https://politicalsciencenow.com/targeting-men-could-raise-women-voters-turnout/) 
 
 Podcast (Episode 17) available [here](https://www.youtube.com/watch?v=vy-aQz7RjnU&feature=youtu.be).
 
