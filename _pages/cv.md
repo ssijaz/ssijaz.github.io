@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 
-Please find my CV [here](https://www.dropbox.com/s/tfmcx70x101m6ty/Ijaz_CV_Fall2022.pdf?dl=0). 
+Please find my CV [here](https://www.dropbox.com/scl/fi/rvwskrxs7vgfimcg4bgj5/Ijaz_CV_Sep2023.pdf?rlkey=ggxhyfxd42z6txfvkmnv3bidt&dl=0). 
 
