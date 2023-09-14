@@ -10,7 +10,10 @@ To what extent does last-mile access to foreign aid matter in developing democra
 
 ## Publications
 **Peer Reviewed**\
-"Taking the Cloth: How religious appeals increase compliance with COVID-19 prevention measures." (with Claire Adida, Christina Cottiero, Leonardo Falabella, Isabelle Gotti, Gregoire Phillips and Michael Seese), *Conditionally Accepted* at **Journal of Experimental Political Science**. 
+"Taking the Cloth: How religious appeals increase compliance with COVID-19 prevention measures." (with Claire Adida, Christina Cottiero, Leonardo Falabella, Isabelle Gotti, Gregoire Phillips and Michael Seese), **Journal of Experimental Political Science**, 2022. 1-10 
+
+**Editor Reviewed**\
+"Determining Development: The Impact of White Feminism on Women of Color", **Southwestern Journal of International Law**, 2023. XXIX:2(257-266)
 
 **Under Review**\
 "Moral Hazard or State Capacity? U.S. Military Aid and Political Violence in Pakistan", *Under Review*.  
