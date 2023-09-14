@@ -13,11 +13,21 @@ I wrote for the Monkey Cage in a [podcast](https://www.cerp.org.pk/pages/podcast
 
 I am an [APSA Public Scholar](https://www.cambridge.org/core/journals/political-science-today/article/meet-the-20222023-public-scholars/C67306488995FB92972F34124ABC627E) for the AY 2022-23. My featured blogposts at [Political Science Now](https://politicalsciencenow.com) are listed below. 
 
-1. "Getting Someone Else to Do the Task: When Accountability Initiatives Create Shadow States Instead of Building Bureaucratic Capacity" *PoliticalScienceNow.com*. 26th December, 2022. Available [here.](https://politicalsciencenow.com/getting-someone-else-to-do-the-task-when-accountability-initiatives-create-shadow-states-instead-of-building-bureaucratic-capacity/) 
+1. "Indigenous Communities that Resisted Historical Labor Conscription Are More Likely to Obtain Accommodation from the State," *PoliticalScienceNow.com*. 27th July, 2023. Available [here.](https://politicalsciencenow\\.com/indigenous-communities-that-resisted-historical-labor-conscription-are-more-likely-to-obtain-accommodation-from-the-state/)
+   
+2. "How Conflicts and Population Loss Led to the Rise of English Wikipedia’s Credibility," *PoliticalScienceNow.com*. 29th May, 2023. Available [here](https://politicalsciencenow.com/how-conflicts-and-population-loss-led-to-the-rise-of-english-wikipedias-credibility)
+   
+3. "Lockdowns for Public Health Can Also Reduce Violence," *PoliticalScienceNow.com*. 20th March, 2023. Available [here](https://politicalsciencenow.com/lockdowns-for-public-health-can-also-reduce-violence/).
 
-2. "Should the Rich Be Taxed? People Are More Concerned about Whether the Rich Are Greedy Than Whether They Worked Their Way Up!" *PoliticalScienceNow.com*. 24th October, 2022. Available [here.](https://politicalsciencenow.com/should-the-rich-be-taxed-people-are-more-concerned-about-whether-the-rich-are-greedy-than-whether-they-worked-their-way-up/)
+4. "Failing Merit-Based Civil Service Exams Can Reduce Institutional Trust and National Identifica- tion," *PoliticalScienceNow.com*. 6th February, 2023. Available [here](https://politicalsciencenow.com/failing-merit-based-civil-service-exams-can-reduce-institutional-trust-and-national-identification/).
+   
+5.  "Getting Someone Else to Do the Task: When Accountability Initiatives Create Shadow States Instead of Building Bureaucratic Capacity" *PoliticalScienceNow.com*. 26th December, 2022. Available [here.](https://politicalsciencenow.com/getting-someone-else-to-do-the-task-when-accountability-initiatives-create-shadow-states-instead-of-building-bureaucratic-capacity/)
+   
+6. "Should the Rich Be Taxed? People Are More Concerned about Whether the Rich Are Greedy Than Whether They Worked Their Way Up!" *PoliticalScienceNow.com*. 24th October, 2022. Available [here.](https://politicalsciencenow.com/should-the-rich-be-taxed-people-are-more-concerned-about-whether-the-rich-are-greedy-than-whether-they-worked-their-way-up/)
 
-3. "Targeting Men could Raise Women Voters' Turnout," *PoliticalScienceNow.com.* 23rd September, 2022. Available [here.](https://politicalsciencenow.com/targeting-men-could-raise-women-voters-turnout/) 
+7. "Targeting Men could Raise Women Voters' Turnout," *PoliticalScienceNow.com.* 23rd September, 2022. Available [here.](https://politicalsciencenow.com/targeting-men-could-raise-women-voters-turnout/)
+
+
 
 Podcast (Episode 17) available [here](https://www.youtube.com/watch?v=vy-aQz7RjnU&feature=youtu.be).
 
