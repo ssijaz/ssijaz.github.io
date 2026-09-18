@@ -7,5 +7,48 @@ redirect_from:
   - /resume
 ---
 
+<div style="text-align: center; margin-bottom: 25px;">
 
-Please find my CV (updated April 2025) [here]([https://www.dropbox.com/scl/fi/rvwskrxs7vgfimcg4bgj5/Ijaz_CV_Sep2023.pdf?rlkey=ggxhyfxd42z6txfvkmnv3bidt&dl=0](https://www.dropbox.com/scl/fi/7c3ylkfr2935ugggky3qt/ijaz_CV_April2025.pdf?rlkey=jqt5e7j9oz02d1rbot8xphyrn&st=g3b74ci5&dl=0)). 
+  <p style="font-size: 1.05em; margin-bottom: 15px;">
+    My CV, updated September 2026.
+  </p>
+
+  <a href="/files/ijaz_CV_Fall2026.pdf"
+     target="_blank"
+     rel="noopener noreferrer"
+     style="
+       display: inline-block;
+       padding: 10px 20px;
+       background: #2c7fb8;
+       color: white;
+       text-decoration: none;
+       border-radius: 5px;
+       font-weight: 600;
+     ">
+    View / Download CV
+  </a>
+
+</div>
+
+<div style="
+  width: 100%;
+  height: 85vh;
+  min-height: 700px;
+  margin: 0 auto;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  overflow: hidden;
+  background: #f7f7f7;
+">
+
+  <iframe
+    src="https://docs.google.com/gview?url=https://ssijaz.github.io/files/ijaz_CV_Fall2026.pdf&embedded=true"
+    style="
+      width: 100%;
+      height: 100%;
+      border: 0;
+    "
+    title="Syeda ShahBano Ijaz CV">
+  </iframe>
+
+</div>
