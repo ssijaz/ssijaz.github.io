@@ -42,7 +42,7 @@ redirect_from:
 ">
 
   <iframe
-    src="https://docs.google.com/gview?url=https://ssijaz.github.io/files/ijaz_CV_Fall2026.pdf&embedded=true"
+    src="https://docs.google.com/gview?url=https://ssijaz.github.io/files/Ijaz_CV_Fall2026.pdf&embedded=true"
     style="
       width: 100%;
       height: 100%;
