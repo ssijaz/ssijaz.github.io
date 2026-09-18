@@ -13,7 +13,7 @@ redirect_from:
     CV - ShahBano Ijaz Updated 2026.
   </p>
 
-  <a href="/files/ijaz_CV_Fall2026.pdf"
+  <a href="/files/Ijaz_CV_Fall2026.pdf"
      target="_blank"
      rel="noopener noreferrer"
      style="
