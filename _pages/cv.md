@@ -10,7 +10,7 @@ redirect_from:
 <div style="text-align: center; margin-bottom: 25px;">
 
   <p style="font-size: 1.05em; margin-bottom: 15px;">
-    My CV, updated September 2026.
+    CV - ShahBano Ijaz Updated 2026.
   </p>
 
   <a href="/files/ijaz_CV_Fall2026.pdf"
