@@ -38,7 +38,7 @@ author_profile: true
         </div>
 
         <div class="course-links">
-          <a href="#"
+          <a href="/files/Ijaz_FYS13_Fall 2026.pdf""
              target="_blank"
              rel="noopener noreferrer">
             Course materials ↗
