@@ -65,7 +65,7 @@ author_profile: true
         </div>
 
         <div class="course-links">
-          <a href="/files/FYS 70 Syllabus (S24).docx"
+          <a href="/files/FYS 70 Syllabus (S24).pdf"
              target="_blank"
              rel="noopener noreferrer">
             Course materials ↗
@@ -92,7 +92,7 @@ author_profile: true
         </div>
 
         <div class="course-links">
-          <a href="#"
+          <a href="/files/DWA 103 Syllabus (S25).pdf"
              target="_blank"
              rel="noopener noreferrer">
             Course materials ↗
@@ -123,7 +123,7 @@ author_profile: true
         </div>
 
         <div class="course-links">
-          <a href="#"
+          <a href="/files/DWA 360 Syllabus (S24).pdf"
              target="_blank"
              rel="noopener noreferrer">
             Course materials ↗
@@ -137,7 +137,7 @@ author_profile: true
 
     <div class="course-item">
 
-      <div class="course-code">DWA 291</div>
+      <div class="course-code">DWA 219</div>
 
       <div class="course-content">
 
@@ -150,7 +150,7 @@ author_profile: true
         </div>
 
         <div class="course-links">
-          <a href="#"
+          <a href="/files/DWA 219 Syllabus (S25).pdf"
              target="_blank"
              rel="noopener noreferrer">
             Course materials ↗
@@ -181,7 +181,7 @@ author_profile: true
         </div>
 
         <div class="course-links">
-          <a href="#"
+          <a href="/files/Core 111 MSI (Summer26).pdf"
              target="_blank"
              rel="noopener noreferrer">
             Course materials ↗
