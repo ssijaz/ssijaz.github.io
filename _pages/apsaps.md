@@ -1,7 +1,9 @@
+---
 layout: archive
 title: "Public Scholarship"
 permalink: /apsaps/
 author_profile: true
+---
 
 As a scholar of the political economy of development, I have been committed to disseminating my research to multiple stakeholders. During my fieldwork in
 Pakistan, I have remained an Affiliate with Pakistan's Consortium for Development Policy Research.
