@@ -24,19 +24,19 @@ Besides promoting diversity within political science, I also want to understand 
 <h2>Diversity and Equity Board</h2>
 
 <p>
-  <a href="{{ '/files/DEB Academic Speaker Event.png' | relative_url }}"
-     target="_blank"
-     rel="noopener noreferrer">
-    Poster ↗
-  </a>
+  <img src="{{ '/files/DEB Academic Speaker Event.png' | relative_url }}"
+       alt="Diversity and Equity Board poster"
+       style="max-width: 500px; width: 100%; height: auto;">
 </p>
 
 <h2>AAUW</h2>
 
-<p>
-  <a href="{{ '/files/2026 May LACIC Newsletter-sm.pdf' | relative_url }}"
-     target="_blank"
-     rel="noopener noreferrer">
-    Posters ↗
-  </a>
-</p>
+<div style="width: 100%; max-width: 900px; height: 700px;">
+  <iframe
+    src="{{ '/files/2026 May LACIC Newsletter-sm.pdf' | relative_url }}"
+    width="100%"
+    height="700"
+    style="border: 1px solid #ddd;"
+    title="AAUW posters">
+  </iframe>
+</div>
