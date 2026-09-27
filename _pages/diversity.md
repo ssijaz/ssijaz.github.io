@@ -1,5 +1,4 @@
 ---
-
 layout: archive
 title: "Diversity in Academia"
 permalink: /diversity/
@@ -17,26 +16,34 @@ In 2021, I was selected as a [First Generation Scholar](https://politicalscience
 
 Besides promoting diversity within political science, I also want to understand the structural impediments that women of color face, both in the academy and outside it. As part of these efforts, I participated in an online symposium on Rafia Zakaria's "Against White Feminism". My contributions to the symposium will appear in the *Southwestern Journal of International Law* in 2023.
 
-<a href="https://user-images.githubusercontent.com/39137491/172978350-69fe2aef-430e-44c7-915a-2bf9647f7dd1.png">
-  <img src="https://user-images.githubusercontent.com/39137491/172978350-69fe2aef-430e-44c7-915a-2bf9647f7dd1.png" width="300">
-</a>
 
-<h2>Diversity and Equity Board</h2>
+<div style="display: flex; gap: 30px; align-items: flex-start; flex-wrap: wrap; margin-top: 30px;">
 
-<p>
-  <img src="{{ '/files/DEB Academic Speaker Event.png' | relative_url }}"
-       alt="Diversity and Equity Board poster"
-       style="max-width: 500px; width: 100%; height: auto;">
-</p>
+  <!-- Against White Feminism Poster -->
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://user-images.githubusercontent.com/39137491/172978350-69fe2aef-430e-44c7-915a-2bf9647f7dd1.png"
+         alt="Against White Feminism Book Symposium"
+         style="display: block; width: 100%; height: 500px; object-fit: contain;">
+  </div>
+
+  <!-- Diversity and Equity Board Poster -->
+  <div style="flex: 1; min-width: 300px;">
+    <img src="{{ '/files/DEB Academic Speaker Event.png' | relative_url }}"
+         alt="Diversity and Equity Board Academic Speaker Event"
+         style="display: block; width: 100%; height: 500px; object-fit: contain;">
+  </div>
+
+</div>
+
 
 <h2>AAUW</h2>
 
-<div style="width: 100%; max-width: 900px; height: 700px;">
+<div style="width: 100%; max-width: 900px; height: 700px; margin-top: 20px;">
   <iframe
     src="{{ '/files/2026 May LACIC Newsletter-sm.pdf' | relative_url }}"
     width="100%"
     height="700"
     style="border: 1px solid #ddd;"
-    title="AAUW posters">
+    title="AAUW newsletter">
   </iframe>
 </div>
