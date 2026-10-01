@@ -43,8 +43,8 @@ I am an APSA Public Scholar for the AY 2022-23. My featured blogposts at Politic
 <div style="display: flex; justify-content: center; margin-top: 25px; margin-bottom: 30px;">
   <a href="https://user-images.githubusercontent.com/39137491/172979011-0c696ba7-d7a7-4241-9b0c-a4396c6b07a2.jpg">
     <img src="https://user-images.githubusercontent.com/39137491/172979011-0c696ba7-d7a7-4241-9b0c-a4396c6b07a2.jpg"
-         width="300"
-         alt="The Young Podcast">
+         alt="The Young Podcast"
+         style="display: block; height: 500px; width: auto; object-fit: contain;">
   </a>
 </div>
 
