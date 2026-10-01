@@ -40,7 +40,13 @@ I am an APSA Public Scholar for the AY 2022-23. My featured blogposts at Politic
 
 <p> <a href="https://shows.acast.com/the-young-podcast/episodes/professor-syeda-shahbano-ijaz-democracy-and-development-in-t" target="_blank" rel="noopener noreferrer"> Listen to the podcast: "Democracy and Development in the Global South" ↗ </a> </p>
 
-<a href="https://user-images.githubusercontent.com/39137491/172979011-0c696ba7-d7a7-4241-9b0c-a4396c6b07a2.jpg"> <img src="https://user-images.githubusercontent.com/39137491/172979011-0c696ba7-d7a7-4241-9b0c-a4396c6b07a2.jpg" width="300"> </a>
+<div style="display: flex; justify-content: center; margin-top: 25px; margin-bottom: 30px;">
+  <a href="https://user-images.githubusercontent.com/39137491/172979011-0c696ba7-d7a7-4241-9b0c-a4396c6b07a2.jpg">
+    <img src="https://user-images.githubusercontent.com/39137491/172979011-0c696ba7-d7a7-4241-9b0c-a4396c6b07a2.jpg"
+         width="500"
+         alt="The Young Podcast">
+  </a>
+</div>
 
 <h2>AAUW</h2>
 
