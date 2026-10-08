@@ -4,7 +4,8 @@ layout: archive
 title: "Diversity in Academia"
 permalink: /diversity/
 author_profile: true
---------------------
+
+---
 
 Throughout my career as a graduate student, I have chosen to channel my own experiences as a person of color into advocacy for diversity in the academe. Currently, I serve as a voting member on the UCSD Chancellor's [Committee on the Status of Women](https://statusofwomen.ucsd.edu/membership/roster/index.html). This year, the Committee developed a proposal for the Chancellor that focuses on the issue of pay equity for UCSD's female-identifying employees.
 
