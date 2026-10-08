@@ -1,10 +1,10 @@
 ---
+
 layout: archive
 title: "Diversity in Academia"
 permalink: /diversity/
 author_profile: true
-
----
+--------------------
 
 Throughout my career as a graduate student, I have chosen to channel my own experiences as a person of color into advocacy for diversity in the academe. Currently, I serve as a voting member on the UCSD Chancellor's [Committee on the Status of Women](https://statusofwomen.ucsd.edu/membership/roster/index.html). This year, the Committee developed a proposal for the Chancellor that focuses on the issue of pay equity for UCSD's female-identifying employees.
 
@@ -16,10 +16,10 @@ In 2021, I was selected as a [First Generation Scholar](https://politicalscience
 
 Besides promoting diversity within political science, I also want to understand the structural impediments that women of color face, both in the academy and outside it. As part of these efforts, I participated in an online symposium on Rafia Zakaria's "Against White Feminism". My contributions to the symposium will appear in the *Southwestern Journal of International Law* in 2023.
 
-
 <div style="display: flex; gap: 30px; align-items: flex-start; flex-wrap: wrap; margin-top: 30px;">
 
   <!-- Against White Feminism Poster -->
+
   <div style="flex: 1; min-width: 300px;">
     <img src="https://user-images.githubusercontent.com/39137491/172978350-69fe2aef-430e-44c7-915a-2bf9647f7dd1.png"
          alt="Against White Feminism Book Symposium"
@@ -27,6 +27,7 @@ Besides promoting diversity within political science, I also want to understand 
   </div>
 
   <!-- Diversity and Equity Board Poster -->
+
   <div style="flex: 1; min-width: 300px;">
     <img src="{{ '/files/DEB Academic Speaker Event.png' | relative_url }}"
          alt="Diversity and Equity Board Academic Speaker Event"
@@ -35,15 +36,10 @@ Besides promoting diversity within political science, I also want to understand 
 
 </div>
 
-
 <h2>AAUW</h2>
 
-<div style="width: 100%; max-width: 900px; height: 700px; margin-top: 20px;">
-  <iframe
-    src="{{ '/files/2026 May LACIC Newsletter-sm.pdf' | relative_url }}"
-    width="100%"
-    height="700"
-    style="border: 1px solid #ddd;"
-    title="AAUW newsletter">
-  </iframe>
+<div style="display: flex; justify-content: center; margin-top: 20px; margin-bottom: 30px;">
+  <img src="{{ '/files/AAWU.png' | relative_url }}"
+       alt="AAUW"
+       style="display: block; max-width: 100%; height: 700px; width: auto; object-fit: contain;">
 </div>
