@@ -5,17 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-
-## Dissertation Project
-
-**From Aid to Accountability: Tracing the Access Equilibrium in Developing Democracies**
-
-To what extent does last-mile access to foreign aid matter in developing democracies? I ask this question in the context of Pakistan, where the Benazir Income Support Program provides quarterly cash payments to women whose eligibility is determined by a poverty score. Low physical mobility for women (Cheema et al. 2019) suggests that they lobby local politicians for better access in the form of safer roads, densely located ATMs and public transportation. These politicians respond by investing in last-mile access, an act distinct from credit claiming (Cruz and Schneider 2017) in that it requires expending effort to win votes. In doing so, it also lends salience to the demands of otherwise marginalized women voters while enabling them to exercise accountability.
-
-To study whether a foreign aid-funded program can effectuate these democratic outcomes, I conduct a survey experiment amongst households surveyed for BISP eligibility, exploiting the discontinuity around the poverty score cut-off. I hypothesize that households just eligible for the program are more likely to report access guarantees from their politicians and are more likely to reward incumbents for the provision of last-mile access when compared to just-ineligible households. Additionally, I conduct open-ended interviews with local politicians to understand their incentives in providing last-mile access.
-
-My research has broader implications for the political economy of foreign aid in developing countries, particularly its effect on democratic accountability. Concurrently, it conducts a unique study of newly enfranchised women voters, many of whom register in the national database for the first time to determine their BISP eligibility.
-
 ## Publications
 
 ### Peer Reviewed
@@ -30,6 +19,21 @@ My research has broader implications for the political economy of foreign aid in
 
 **Ijaz, Syeda ShahBano. (2023).** "Determining Development: The Impact of White Feminism on Women of Color." *Southwestern Journal of International Law*, XXIX(2): 257–266.
 *Editor review, student-edited U.S. law review, published.*
+
+## Book Project 
+**Title**: **"Accessing the Last Mile: How Foreign Aid Restructures Local Politics in Pakistan"**  
+
+**Abstract**: Accessing the Last Mile presents an empirically rigorous account of foreign aid and local politics in developing democracies. Through a mixed-methods approach combining administrative data and survey research, it shows how aid incentivizes marginalized citizens to demand access from local politicians, who respond by providing facilitative services. The project draws on nearly three years of fieldwork with Pakistan’s foreign-aid-funded Benazir Income Support Program, including a survey experiment with 2,800 potential beneficiaries and interviews with 26 local councilors. In 2027, I will conduct a lab-in-the-field experiment with development bureaucrats in Pakistan to examine how AI shapes eligibility decisions for foreign aid recipients. As foreign aid suffers a setback following USAID’s shuttering, this project highlights how aid can give citizens a basis for demanding state services, creating forms of political exchange otherwise unavailable to citizens excluded from public-goods provision. 
+
+## Dissertation Project
+
+**From Aid to Accountability: Tracing the Access Equilibrium in Developing Democracies**
+
+To what extent does last-mile access to foreign aid matter in developing democracies? I ask this question in the context of Pakistan, where the Benazir Income Support Program provides quarterly cash payments to women whose eligibility is determined by a poverty score. Low physical mobility for women (Cheema et al. 2019) suggests that they lobby local politicians for better access in the form of safer roads, densely located ATMs and public transportation. These politicians respond by investing in last-mile access, an act distinct from credit claiming (Cruz and Schneider 2017) in that it requires expending effort to win votes. In doing so, it also lends salience to the demands of otherwise marginalized women voters while enabling them to exercise accountability.
+
+To study whether a foreign aid-funded program can effectuate these democratic outcomes, I conduct a survey experiment amongst households surveyed for BISP eligibility, exploiting the discontinuity around the poverty score cut-off. I hypothesize that households just eligible for the program are more likely to report access guarantees from their politicians and are more likely to reward incumbents for the provision of last-mile access when compared to just-ineligible households. Additionally, I conduct open-ended interviews with local politicians to understand their incentives in providing last-mile access.
+
+My research has broader implications for the political economy of foreign aid in developing countries, particularly its effect on democratic accountability. Concurrently, it conducts a unique study of newly enfranchised women voters, many of whom register in the national database for the first time to determine their BISP eligibility.
 
 ## Under Review
 
