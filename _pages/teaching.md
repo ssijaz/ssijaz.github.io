@@ -262,14 +262,6 @@ author_profile: true
           Fall 2010 · Spring 2011 · Fall 2011 · Spring 2012
         </div>
 
-        <div class="course-links">
-          <a href="#"
-             target="_blank"
-             rel="noopener noreferrer">
-            Course materials ↗
-          </a>
-        </div>
-
       </div>
 
     </div>
@@ -287,14 +279,6 @@ author_profile: true
 
         <div class="course-meta">
           Fall 2010 · Spring 2011 · Fall 2011 · Spring 2012
-        </div>
-
-        <div class="course-links">
-          <a href="#"
-             target="_blank"
-             rel="noopener noreferrer">
-            Course materials ↗
-          </a>
         </div>
 
       </div>
