@@ -17,11 +17,11 @@ In 2021, I was selected as a [First Generation Scholar](https://politicalscience
 
 Besides promoting diversity within political science, I also want to understand the structural impediments that women of color face, both in the academy and outside it. As part of these efforts, I participated in an online symposium on Rafia Zakaria's "Against White Feminism". My contributions to the symposium will appear in the *Southwestern Journal of International Law* in 2023.
 
-<div style="display: flex; gap: 30px; align-items: flex-start; flex-wrap: wrap; margin-top: 30px;">
+<div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap; margin-top: 30px;">
 
   <!-- Against White Feminism Poster -->
 
-  <div style="flex: 1; min-width: 300px;">
+  <div style="flex: 1 1 calc(33.333% - 14px); min-width: 280px;">
     <img src="https://user-images.githubusercontent.com/39137491/172978350-69fe2aef-430e-44c7-915a-2bf9647f7dd1.png"
          alt="Against White Feminism Book Symposium"
          style="display: block; width: 100%; height: 500px; object-fit: contain;">
@@ -29,18 +29,18 @@ Besides promoting diversity within political science, I also want to understand 
 
   <!-- Diversity and Equity Board Poster -->
 
-  <div style="flex: 1; min-width: 300px;">
+  <div style="flex: 1 1 calc(33.333% - 14px); min-width: 280px;">
     <img src="{{ '/files/DEB Academic Speaker Event.png' | relative_url }}"
          alt="Diversity and Equity Board Academic Speaker Event"
          style="display: block; width: 100%; height: 500px; object-fit: contain;">
   </div>
 
-</div>
+  <!-- AAUW Poster -->
 
-<h2>AAUW</h2>
+  <div style="flex: 1 1 calc(33.333% - 14px); min-width: 280px;">
+    <img src="{{ '/files/AAWU.png' | relative_url }}"
+         alt="AAUW"
+         style="display: block; width: 100%; height: 500px; object-fit: contain;">
+  </div>
 
-<div style="width: 100%; max-width: 900px; margin-top: 20px;">
-  <img src="{{ '/files/AAWU.png' | relative_url }}"
-       alt="AAUW"
-       style="display: block; width: 100%; height: auto;">
 </div>
