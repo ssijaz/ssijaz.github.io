@@ -39,8 +39,8 @@ Besides promoting diversity within political science, I also want to understand 
 
 <h2>AAUW</h2>
 
-<div style="display: flex; justify-content: center; margin-top: 20px; margin-bottom: 30px;">
+<div style="width: 100%; max-width: 900px; margin-top: 20px;">
   <img src="{{ '/files/AAWU.png' | relative_url }}"
        alt="AAUW"
-       style="display: block; max-width: 100%; height: 700px; width: auto; object-fit: contain;">
+       style="display: block; width: 100%; height: auto;">
 </div>
