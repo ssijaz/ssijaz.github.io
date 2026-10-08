@@ -19,7 +19,7 @@ author_profile: true
 *Editor review, student-edited U.S. law review, published.*
 
 ## Book Project 
-**"Accessing the Last Mile: How Foreign Aid Restructures Local Politics in Pakistan"**  
+**Accessing the Last Mile: How Foreign Aid Restructures Local Politics in Pakistan**  
 
 Abstract : Accessing the Last Mile presents an empirically rigorous account of foreign aid and local politics in developing democracies. Through a mixed-methods approach combining administrative data and survey research, it shows how aid incentivizes marginalized citizens to demand access from local politicians, who respond by providing facilitative services. The project draws on nearly three years of fieldwork with Pakistan’s foreign-aid-funded Benazir Income Support Program, including a survey experiment with 2,800 potential beneficiaries and interviews with 26 local councilors. In 2027, I will conduct a lab-in-the-field experiment with development bureaucrats in Pakistan to examine how AI shapes eligibility decisions for foreign aid recipients. As foreign aid suffers a setback following USAID’s shuttering, this project highlights how aid can give citizens a basis for demanding state services, creating forms of political exchange otherwise unavailable to citizens excluded from public-goods provision. 
 
