@@ -9,13 +9,16 @@ author_profile: true
 
 ### Peer Reviewed
 
-**Ijaz, Syeda ShahBano. (2026).** "Moral Hazard or State Capacity? U.S. Military Assistance and Political Violence in Pakistan." *Journal of Conflict Resolution*, 70(2–3): 330-358.
+**Ijaz, Syeda ShahBano. (2026).** "Moral Hazard or State Capacity? U.S. Military Assistance and Political Violence in Pakistan." 
+*Journal of Conflict Resolution*, 70(2–3): 330-358.
 
-**Adida, Claire; Cottiero, Christina; Falabella, Leonardo; Gotti, Isabelle; Ijaz, ShahBano; Phillips, Gregoire; and Michael Seese. (2022).** "Taking the Cloth: How Religious Appeals Increase Compliance with COVID-19 Prevention Measures." *Journal of Experimental Political Science* 1-10.
+**Adida, Claire; Cottiero, Christina; Falabella, Leonardo; Gotti, Isabelle; Ijaz, ShahBano; Phillips, Gregoire; and Michael Seese. (2022).** "Taking the Cloth: How Religious Appeals Increase Compliance with COVID-19 Prevention Measures." 
+*Journal of Experimental Political Science* 1-10.
 
 ### Editor Reviewed
 
-**Ijaz, Syeda ShahBano. (2023).** "Determining Development: The Impact of White Feminism on Women of Color." *Southwestern Journal of International Law*, XXIX(2): 257–266.
+**Ijaz, Syeda ShahBano. (2023).** "Determining Development: The Impact of White Feminism on Women of Color." 
+*Southwestern Journal of International Law*, XXIX(2): 257–266.
 
 ## Book Project 
 **Accessing the Last Mile: How Foreign Aid Restructures Local Politics in Pakistan**  
@@ -32,22 +35,22 @@ Abstract : Accessing the Last Mile presents an empirically rigorous account of f
 
 ## Working Papers
 
-**Accessing the Last-Mile: Evidence on Aid and Accountability from Pakistan**
+**Accessing the Last-Mile: Evidence on Aid and Accountability from Pakistan**<br>
 *Working paper available on request.*
 
-**Foreign Aid and Voter Preferences: Experimental Evidence from Pakistan**
+**Foreign Aid and Voter Preferences: Experimental Evidence from Pakistan**<br>
 *Working paper available on request.*
 
 **Colonial Shadows and Development Assistance: Public Perceptions of Foreign Aid from Former Colonial Powers**
-with Michael Huang and Crispin Beyogle.
+with Michael Huang and Crispin Beyogle.<br.
 *Working paper available on request.*
 
 **Foreign Aid and Institutions in Pakistan**
-with Sarah Thompson.
+with Sarah Thompson.<br>
 *Pre-Analysis Plan available on request.*
 
 **Immigrants Care Differently: Foreign Policy Preferences and the New Dynamics of Polarization in the U.S.**
-with Naima Green-Riley.
+with Naima Green-Riley.<br>
 *Pre-Analysis Plan available on request.*
 
 ## Other Publications
